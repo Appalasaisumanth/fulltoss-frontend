@@ -29,10 +29,10 @@ function Shop() {
     );
   
     useEffect(() => {
-        let team = localStorage.getItem('user').split('+')[0];
+        let team = localStorage.getItem('user');
         console.log(team);
         if (team) {
-            setTheme(team);
+            setTheme(team.split('+')[0]);
         }
         else {
             alert('login/register in home page to buy products');
