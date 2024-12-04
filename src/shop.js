@@ -23,7 +23,7 @@ function Shop() {
         SRH: "https://i.pinimg.com/474x/21/78/84/2178841ae0f590cc4767090063f2ae4b.jpg",
         RCB: "https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/Royal_Challengers_Bengaluru_Logo.png/240px-Royal_Challengers_Bengaluru_Logo.png"
     };
-    var temp = "CSK";
+    var temp = "";
     const [theme, setTheme] = useState(
         temp
     );
