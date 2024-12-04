@@ -1,8 +1,8 @@
 
 frontend for fulltoss ipl themed e commence platform sell ipl products over 4 teams(MI,CSK,SRH<RCB)
-fulltoss-frontend.vercel.app
-fulltoss-frontend-git-main-a-sai-sumanths-projects.vercel.app
-fulltoss-frontend-4fjqoi2dh-a-sai-sumanths-projects.vercel.app
+https://fulltoss-frontend.vercel.app
+https://fulltoss-frontend-git-main-a-sai-sumanths-projects.vercel.app
+https://fulltoss-frontend-4fjqoi2dh-a-sai-sumanths-projects.vercel.app
 
 ## Available Scripts
 
