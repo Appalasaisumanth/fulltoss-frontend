@@ -1,6 +1,8 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+frontend for fulltoss ipl themed e commence platform sell ipl products over 4 teams(MI,CSK,SRH<RCB)
+fulltoss-frontend.vercel.app
+fulltoss-frontend-git-main-a-sai-sumanths-projects.vercel.app
+fulltoss-frontend-4fjqoi2dh-a-sai-sumanths-projects.vercel.app
 
 ## Available Scripts
 
